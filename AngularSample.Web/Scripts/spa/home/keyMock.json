@@ -1,0 +1,44 @@
+﻿[
+  {
+    "ID": 1,
+    "Root": "Rock",
+    "InApp": "True",
+    "Comment": "This is cool"
+  },
+  {
+    "ID": 2,
+    "Root": "Jazz",
+    "InApp": "True",
+    "Comment": "This is cool"
+  },
+  {
+    "ID": 3,
+    "Root": "Classical",
+    "InApp": "False",
+    "Comment": "This is cool"
+  },
+  {
+    "ID": 4,
+    "Root": "Pop",
+    "InApp": "True",
+    "Comment": "This is cool"
+  },
+  {
+    "ID": 5,
+    "Root": "Country",
+    "InApp": "True",
+    "Comment": "This is cool"
+  },
+  {
+    "ID": 6,
+    "Root": "Folk",
+    "InApp": "True",
+    "Comment": "This is cool"
+  },
+  {
+    "ID": 7,
+    "Root": "Old",
+    "InApp": "True",
+    "Comment": "This is cool"
+  }
+]
